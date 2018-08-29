@@ -1,4 +1,4 @@
-# Using command line to filter dozes of CSV files to one that matches a criteria
+# How we used command line to filter dozens of CSV files to one that matches a criteria
 
 We have downloaded 1.8GB of CSV files - spread across dozens of folders. From those we want to extract any containing the word 'airport'. We need the following commands:
 
